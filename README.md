@@ -44,5 +44,12 @@ In general annual subscribers use the service more than customers. It also clear
 7. Bike Repairs
 ![]()
  
+ ## Summary
+ In summary, the quest to build a similar ride share business as citibike in Des Moines is clearly supported by the data from Newyork. 
+ The gender breakdown in Newyork holds almost same as Des Moines showing about 2.96% more female population. Since the population is lessthan that of newyork a lowersacle model is envisaged and managable in this Iowa city. 
  
+### Additional Analysis
+- An analysis of bike station distribution to peak usuage will show which areas get the most drop off during the morning and later after work. This will give a clear plan on how to manage the number of bikes per location.
+- It is clear that males use the service more than other groups but an analysis of age distribution will tell the class of males that subscribe to the service and provide a better understanding of the clientel. 
+
  
